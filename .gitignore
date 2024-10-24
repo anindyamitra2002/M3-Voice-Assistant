@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-/LIDv2/model/SPRING_INX_ccc_wav2vec2_SSL.pt
+LIDv2\model\SPRING_INX_ccc_wav2vec2_SSL.pt
+Fastspeech2_HS_Flask_API\models/*
+Fastspeech2_HS_Flask_API\vocoder/*
 # C extensions
 *.so
 
